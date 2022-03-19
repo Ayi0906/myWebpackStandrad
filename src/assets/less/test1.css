@@ -1,0 +1,10 @@
+#d3 {
+  background: url('../img/img\ \(1\).jpg') no-repeat center center / cover;
+  width: 200px;
+  height: 200px;
+}
+#d3 > h1 {
+  color: #258;
+  font-weight: 500;
+  font-size: 25px;
+}
